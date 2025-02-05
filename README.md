@@ -8,11 +8,6 @@ This project implements an API that integrates with Anthropic's Claude model, al
 - Real-time streaming responses
 - Support for claude-3-opus-20240229 model
 
-## 📋 Prerequisites
-
-- Python 3.8 or higher
-- pip (Python package manager)
-
 ## 🔧 Installation
 
 1. Clone the repository:
