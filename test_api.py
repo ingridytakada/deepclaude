@@ -23,7 +23,7 @@ async def stream_response():
                     "messages": [
                         {
                             "role": "user",
-                            "content": "Me conte uma curiosidade interessante sobre o Japão"
+                            "content": "Tell me a curiosity about Japan"
                         }
                     ]
                 }
